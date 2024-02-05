@@ -1,0 +1,8 @@
+username_input: "//input[@name='text']"
+next_button: "//span[contains(text(),'Next')]"
+password_input: "//input[@name='password']"
+log_in: "//span[contains(text(),'Log in')]"
+search_box: "//input[@data-testid='SearchBox_Search_Input']"
+people: "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[1]/div[1]/div[2]/nav/div/div[2]/div/div[3]/a/div/div/span"
+tweet_article: "//*[@id='react-root']/div/div/div[2]/main/div/div/div/div[1]/div/div[3]"
+tweets: './/section/div/div/div/div/div'

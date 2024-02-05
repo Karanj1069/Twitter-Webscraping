@@ -1,0 +1,3961 @@
+2023-07-19 03:19:55,859 - INFO - Finished scraping. CSV file created at: C:\Users\karan\ODO Email Extraction\Twitter scraping\tweets_live.csv
+2023-07-19 03:23:34,650 - INFO - Finished scraping. CSV file created at: C:\Users\karan\ODO Email Extraction\Twitter scraping\tweets_live.csv
+2023-07-19 03:25:01,461 - INFO - Finished scraping. CSV file created at: C:\Users\karan\ODO Email Extraction\Twitter scraping\tweets_live.csv
+2023-07-19 03:31:51,946 - INFO - Crawled https://twitter.com/login
+2023-07-19 03:31:58,136 - INFO - Searched for Mental Health
+2023-07-19 03:31:58,799 - INFO - Searched for people related to Mental Health
+2023-07-19 03:31:58,943 - INFO - updated the data in CSV
+2023-07-19 03:31:58,943 - INFO - Finished scraping. CSV file created at: C:\Users\karan\ODO Email Extraction\Twitter scraping\Mental Health.csv
+2023-07-19 03:33:35,723 - INFO - Crawled https://twitter.com/login
+2023-07-19 03:33:41,800 - INFO - Searched for Mental Health
+2023-07-19 03:33:47,053 - INFO - Searched for people related to Mental Health
+2023-07-19 03:33:51,141 - INFO - Crawled through profile of Mental Health Today
+2023-07-19 03:33:51,176 - INFO - Crawled through profile of Harvard Health
+2023-07-19 03:33:51,211 - INFO - Crawled through profile of National Institute of Mental Health (NIMH)
+2023-07-19 03:33:51,246 - INFO - Crawled through profile of Mental Health Foundation
+2023-07-19 03:33:51,282 - INFO - Crawled through profile of SAMHSA
+2023-07-19 03:33:51,318 - INFO - Crawled through profile of Mental Health America
+2023-07-19 03:33:51,353 - INFO - Crawled through profile of Mental Health Chat
+2023-07-19 03:33:51,388 - INFO - Crawled through profile of Mental Health Australia
+2023-07-19 03:33:51,423 - INFO - Crawled through profile of Mental Health Commission of Canada
+2023-07-19 03:33:51,457 - INFO - Crawled through profile of Centre for Mental Health
+2023-07-19 03:33:51,492 - INFO - Crawled through profile of NYS Office of Mental Health
+2023-07-19 03:33:51,526 - INFO - Crawled through profile of MentalHealthFirstAid
+2023-07-19 03:33:51,561 - INFO - Crawled through profile of AWP Mental Health
+2023-07-19 03:33:51,597 - INFO - Crawled through profile of MO DMH
+2023-07-19 03:33:51,632 - INFO - Crawled through profile of Mental Health IRL
+2023-07-19 03:33:51,667 - INFO - Crawled through profile of Greater Manchester Mental Health
+2023-07-19 03:33:51,702 - INFO - Crawled through profile of Mental Health Reform
+2023-07-19 03:33:51,738 - INFO - Crawled through profile of Money and Mental Health
+2023-07-19 03:33:51,774 - INFO - Crawled through profile of Australian & New Zealand Mental Health Association
+2023-07-19 03:33:51,811 - INFO - Crawled through profile of The Royal Mental Health Centre
+2023-07-19 03:33:51,851 - INFO - Crawled through profile of MentalHealthPH
+2023-07-19 03:33:51,901 - INFO - Crawled through profile of TogetherMentalHealth
+2023-07-19 03:33:51,935 - INFO - Crawled through profile of Mental Health Advocate
+2023-07-19 03:33:51,968 - INFO - Crawled through profile of NSFT mental health
+2023-07-19 03:33:52,003 - INFO - Crawled through profile of BMJ Mental Health
+2023-07-19 03:33:52,038 - INFO - Crawled through profile of MHASF
+2023-07-19 03:33:52,075 - INFO - Crawled through profile of Mental Health Collective
+2023-07-19 03:33:52,111 - INFO - Crawled through profile of Guardians Mental Health
+2023-07-19 03:33:52,232 - INFO - updated the data in CSV
+2023-07-19 03:33:52,232 - INFO - Finished scraping. CSV file created at: C:\Users\karan\ODO Email Extraction\Twitter scraping\Mental Health.csv
+2023-07-19 16:58:15,953 - INFO - Crawled https://twitter.com/login
+2023-07-19 16:58:23,478 - INFO - Searched for Mental Health
+2023-07-19 16:58:29,193 - INFO - Searched for people related to Mental Health
+2023-07-19 16:58:29,366 - INFO - Crawled through profile of Mental Health Today
+2023-07-19 16:58:29,523 - INFO - Crawled through profile of Harvard Health
+2023-07-19 16:58:29,654 - INFO - Crawled through profile of National Institute of Mental Health (NIMH)
+2023-07-19 16:58:29,706 - INFO - Crawled through profile of Mental Health Foundation
+2023-07-19 16:58:29,760 - INFO - Crawled through profile of Mental Health America
+2023-07-19 16:58:29,815 - INFO - Crawled through profile of Mental Health Chat
+2023-07-19 16:58:29,862 - INFO - Crawled through profile of SAMHSA
+2023-07-19 16:58:29,915 - INFO - Crawled through profile of Centre for Mental Health
+2023-07-19 16:58:29,966 - INFO - Crawled through profile of Mental Health Australia
+2023-07-19 16:58:30,018 - INFO - Crawled through profile of Mental Health Commission of Canada
+2023-07-19 16:58:30,068 - INFO - Crawled through profile of NYS Office of Mental Health
+2023-07-19 16:58:30,118 - INFO - Crawled through profile of Mental Health IRL
+2023-07-19 16:58:30,169 - INFO - Crawled through profile of MO DMH
+2023-07-19 16:58:30,222 - INFO - Crawled through profile of MentalHealthFirstAid
+2023-07-19 16:58:30,274 - INFO - Crawled through profile of Greater Manchester Mental Health
+2023-07-19 16:58:30,325 - INFO - Crawled through profile of Mental Health Reform
+2023-07-19 16:58:30,375 - INFO - Crawled through profile of World Federation for Mental Health
+2023-07-19 16:58:30,429 - INFO - Crawled through profile of AWP Mental Health
+2023-07-19 16:58:30,479 - INFO - Crawled through profile of Money and Mental Health
+2023-07-19 16:58:30,528 - INFO - Crawled through profile of Australian & New Zealand Mental Health Association
+2023-07-19 16:58:30,583 - INFO - Crawled through profile of MentalHealthPH
+2023-07-19 16:58:30,635 - INFO - Crawled through profile of TogetherMentalHealth
+2023-07-19 16:58:30,686 - INFO - Crawled through profile of Mental Health Advocate
+2023-07-19 16:58:30,739 - INFO - Crawled through profile of MHASF
+2023-07-19 16:58:30,963 - INFO - Updated the data in CSV
+2023-07-19 16:58:30,963 - INFO - Finished scraping. CSV file created at: C:\Users\karan\ODO Email Extraction\Twitter scraping\Mental Health.csv
+2023-07-25 14:00:01,187 - INFO - Crawled https://twitter.com/login
+2023-07-25 14:00:07,321 - INFO - Searched for Mental Health
+2023-07-25 14:00:12,965 - INFO - Searched for people related to Mental Health
+2023-07-25 14:00:13,049 - INFO - Crawled through profile of Mental Health Today
+2023-07-25 14:00:13,083 - INFO - Crawled through profile of Mental Health Foundation
+2023-07-25 14:00:13,115 - INFO - Crawled through profile of National Institute of Mental Health (NIMH)
+2023-07-25 14:00:13,148 - INFO - Crawled through profile of Harvard Health
+2023-07-25 14:00:13,182 - INFO - Crawled through profile of Mental Health Australia
+2023-07-25 14:00:13,214 - INFO - Crawled through profile of SAMHSA
+2023-07-25 14:00:13,247 - INFO - Crawled through profile of Mental Health IRL
+2023-07-25 14:00:13,278 - INFO - Crawled through profile of Centre for Mental Health
+2023-07-25 14:00:13,309 - INFO - Crawled through profile of The Royal Mental Health Centre
+2023-07-25 14:00:13,342 - INFO - Crawled through profile of Mental Health Chat
+2023-07-25 14:00:13,375 - INFO - Crawled through profile of Mental Health America
+2023-07-25 14:00:13,407 - INFO - Crawled through profile of Mental Health Commission of Canada
+2023-07-25 14:00:13,441 - INFO - Crawled through profile of MentalHealthFirstAid
+2023-07-25 14:00:13,579 - INFO - Crawled through profile of NYS Office of Mental Health
+2023-07-25 14:00:13,622 - INFO - Crawled through profile of Greater Manchester Mental Health
+2023-07-25 14:00:13,654 - INFO - Crawled through profile of Australian & New Zealand Mental Health Association
+2023-07-25 14:00:13,687 - INFO - Crawled through profile of MHASF
+2023-07-25 14:00:13,729 - INFO - Crawled through profile of Mental Health First Aid | Australia
+2023-07-25 14:00:13,763 - INFO - Crawled through profile of NSFT mental health
+2023-07-25 14:00:13,796 - INFO - Crawled through profile of MO DMH
+2023-07-25 14:00:13,805 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:00:13,948 - INFO - Updated the data in CSV
+2023-07-25 14:00:13,948 - INFO - Finished scraping. CSV file created at: C:\Users\karan\ODO Email Extraction\Twitter scraping\Mental Health.csv
+2023-07-25 14:01:02,426 - INFO - Crawled https://twitter.com/login
+2023-07-25 14:01:10,674 - INFO - Searched for Mental Health
+2023-07-25 14:01:15,950 - INFO - Searched for people related to Mental Health
+2023-07-25 14:01:16,038 - INFO - Crawled through profile of Mental Health Today
+2023-07-25 14:01:16,078 - INFO - Crawled through profile of Mental Health Foundation
+2023-07-25 14:01:16,112 - INFO - Crawled through profile of National Institute of Mental Health (NIMH)
+2023-07-25 14:01:16,151 - INFO - Crawled through profile of Harvard Health
+2023-07-25 14:01:16,266 - INFO - Crawled through profile of Mental Health Australia
+2023-07-25 14:01:16,329 - INFO - Crawled through profile of SAMHSA
+2023-07-25 14:01:16,395 - INFO - Crawled through profile of Mental Health IRL
+2023-07-25 14:01:16,459 - INFO - Crawled through profile of Centre for Mental Health
+2023-07-25 14:01:16,506 - INFO - Crawled through profile of The Royal Mental Health Centre
+2023-07-25 14:01:16,547 - INFO - Crawled through profile of Mental Health Commission of Canada
+2023-07-25 14:01:16,580 - INFO - Crawled through profile of Mental Health America
+2023-07-25 14:01:16,614 - INFO - Crawled through profile of NYS Office of Mental Health
+2023-07-25 14:01:16,653 - INFO - Crawled through profile of MentalHealthFirstAid
+2023-07-25 14:01:16,692 - INFO - Crawled through profile of Greater Manchester Mental Health
+2023-07-25 14:01:16,726 - INFO - Crawled through profile of Mental Health Chat
+2023-07-25 14:01:16,763 - INFO - Crawled through profile of MHASF
+2023-07-25 14:01:16,798 - INFO - Crawled through profile of Australian & New Zealand Mental Health Association
+2023-07-25 14:01:16,840 - INFO - Crawled through profile of Mental Health First Aid | Australia
+2023-07-25 14:01:16,877 - INFO - Crawled through profile of NSFT mental health
+2023-07-25 14:01:16,912 - INFO - Crawled through profile of Mental Health Foundation
+2023-07-25 14:01:16,947 - INFO - Crawled through profile of TogetherMentalHealth
+2023-07-25 14:01:16,982 - INFO - Crawled through profile of MentalHealthPH
+2023-07-25 14:01:17,019 - INFO - Crawled through profile of Mental Health Reform
+2023-07-25 14:01:17,054 - INFO - Crawled through profile of Mental Health Collective
+2023-07-25 14:01:17,155 - INFO - Updated the data in CSV
+2023-07-25 14:01:17,155 - INFO - Finished scraping. CSV file created at: C:\Users\karan\ODO Email Extraction\Twitter scraping\Mental Health.csv
+2023-07-25 14:02:11,659 - INFO - Crawled https://twitter.com/login
+2023-07-25 14:10:11,516 - INFO - Crawled https://twitter.com/login
+2023-07-25 14:10:17,854 - INFO - Searched for Mental Health
+2023-07-25 14:10:23,532 - INFO - Searched for people related to Mental Health
+2023-07-25 14:11:24,783 - INFO - Crawled https://twitter.com/login
+2023-07-25 14:11:31,082 - INFO - Searched for Mental Health
+2023-07-25 14:11:36,757 - INFO - Searched for people related to Mental Health
+2023-07-25 14:12:26,616 - INFO - Crawled https://twitter.com/login
+2023-07-25 14:12:32,933 - INFO - Searched for Mental Health
+2023-07-25 14:12:38,661 - INFO - Searched for people related to Mental Health
+2023-07-25 14:12:38,733 - INFO - Error while crawling a profile: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='react-root']/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[0]/div/div/div/div/div[2]/div[1]/div[1]/div/div[2]/div/a/div/div/span"}
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00F009A5]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:39,842 - INFO - Error while crawling a profile: Message: element click intercepted: Element <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">...</span> is not clickable at point (756, 9). Other element would receive the click: <input aria-activedescendant="typeaheadFocus-0.7502853496236064" aria-autocomplete="list" aria-label="Search query" aria-owns="typeaheadDropdown-2" autocapitalize="sentences" autocomplete="off" autocorrect="off" placeholder="Search Twitter" role="combobox" spellcheck="false" enterkeyhint="search" type="text" dir="auto" class="r-30o5oe r-1niwhzg r-17gur6a r-1yadl64 r-deolkf r-homxoj r-poiln3 r-7cikom r-1ny4l3l r-xyw6el r-13rk5gd r-1dz5y72 r-fdjqy7 r-13qz1uu" data-testid="SearchBox_Search_Input" value="Mental Health">
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00F05062]
+	(No symbol) [0x00F03B98]
+	(No symbol) [0x00F0239B]
+	(No symbol) [0x00F0179E]
+	(No symbol) [0x00EF9F5C]
+	(No symbol) [0x00F1A73C]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,325 - INFO - Crawled through profile of National Institute of Mental Health (NIMH)
+2023-07-25 14:12:40,367 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,378 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,405 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,418 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,530 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,542 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,553 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,562 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,572 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,582 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,590 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,600 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,608 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,619 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,627 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,636 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,645 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,672 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,680 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,691 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:12:40,837 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:14,162 - INFO - Crawled https://twitter.com/login
+2023-07-25 14:13:20,548 - INFO - Searched for Mental Health
+2023-07-25 14:13:25,864 - INFO - Searched for people related to Mental Health
+2023-07-25 14:13:25,953 - INFO - Error while crawling a profile: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[0]/div/div/div/div/div[2]/div[1]/div[1]/div/div[1]/a/div/div[1]/span/span[1]"}
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00F009A5]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,049 - INFO - Error while crawling a profile: Message: element click intercepted: Element <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">...</span> is not clickable at point (737, 9). Other element would receive the click: <input aria-activedescendant="typeaheadFocus-0.576118689878051" aria-autocomplete="list" aria-label="Search query" aria-owns="typeaheadDropdown-2" autocapitalize="sentences" autocomplete="off" autocorrect="off" placeholder="Search Twitter" role="combobox" spellcheck="false" enterkeyhint="search" type="text" dir="auto" class="r-30o5oe r-1niwhzg r-17gur6a r-1yadl64 r-deolkf r-homxoj r-poiln3 r-7cikom r-1ny4l3l r-xyw6el r-13rk5gd r-1dz5y72 r-fdjqy7 r-13qz1uu" data-testid="SearchBox_Search_Input" value="Mental Health">
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00F05062]
+	(No symbol) [0x00F03B98]
+	(No symbol) [0x00F0239B]
+	(No symbol) [0x00F0179E]
+	(No symbol) [0x00EF9F5C]
+	(No symbol) [0x00F1A73C]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,540 - INFO - Crawled through profile of National Institute of Mental Health (NIMH)
+2023-07-25 14:13:27,589 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,599 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,657 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,683 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,696 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,706 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,716 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,724 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,733 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,744 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,753 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,763 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,772 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,780 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,787 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,796 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,806 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,814 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,821 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,831 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:13:27,854 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:00,880 - INFO - Crawled https://twitter.com/login
+2023-07-25 14:16:07,349 - INFO - Searched for Mental Health
+2023-07-25 14:16:13,043 - INFO - Searched for people related to Mental Health
+2023-07-25 14:16:13,136 - INFO - Error while crawling a profile: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[0]/div/div/div/div/div[2]/div[1]/div[1]/div/div[1]/a/div/div[1]/span/span[1]"}
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00F009A5]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:14,225 - INFO - Error while crawling a profile: Message: element click intercepted: Element <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">...</span> is not clickable at point (737, 9). Other element would receive the click: <input aria-activedescendant="typeaheadFocus-0.4829785224648404" aria-autocomplete="list" aria-label="Search query" aria-owns="typeaheadDropdown-2" autocapitalize="sentences" autocomplete="off" autocorrect="off" placeholder="Search Twitter" role="combobox" spellcheck="false" enterkeyhint="search" type="text" dir="auto" class="r-30o5oe r-1niwhzg r-17gur6a r-1yadl64 r-deolkf r-homxoj r-poiln3 r-7cikom r-1ny4l3l r-xyw6el r-13rk5gd r-1dz5y72 r-fdjqy7 r-13qz1uu" data-testid="SearchBox_Search_Input" value="Mental Health">
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00F05062]
+	(No symbol) [0x00F03B98]
+	(No symbol) [0x00F0239B]
+	(No symbol) [0x00F0179E]
+	(No symbol) [0x00EF9F5C]
+	(No symbol) [0x00F1A73C]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:14,730 - INFO - Crawled through profile of National Institute of Mental Health (NIMH)
+2023-07-25 14:16:14,763 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:14,772 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:14,787 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:14,798 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:14,806 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:14,927 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:14,944 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:14,952 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:14,960 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:14,967 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:14,975 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:14,983 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:14,989 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:14,996 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:15,003 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:15,009 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:15,017 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:15,025 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:15,032 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:15,039 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:15,046 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:16:49,066 - INFO - Crawled https://twitter.com/login
+2023-07-25 14:16:55,494 - INFO - Searched for Mental Health
+2023-07-25 14:17:00,816 - INFO - Searched for people related to Mental Health
+2023-07-25 14:17:00,906 - INFO - Error while crawling a profile: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[0]/div/div/div/div/div[2]/div[1]/div[1]/div/div[1]/a/div/div[1]/span/span[1]"}
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00F009A5]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,000 - INFO - Error while crawling a profile: Message: element click intercepted: Element <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">...</span> is not clickable at point (737, 9). Other element would receive the click: <input aria-activedescendant="typeaheadFocus-0.13126095864031728" aria-autocomplete="list" aria-label="Search query" aria-owns="typeaheadDropdown-2" autocapitalize="sentences" autocomplete="off" autocorrect="off" placeholder="Search Twitter" role="combobox" spellcheck="false" enterkeyhint="search" type="text" dir="auto" class="r-30o5oe r-1niwhzg r-17gur6a r-1yadl64 r-deolkf r-homxoj r-poiln3 r-7cikom r-1ny4l3l r-xyw6el r-13rk5gd r-1dz5y72 r-fdjqy7 r-13qz1uu" data-testid="SearchBox_Search_Input" value="Mental Health">
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00F05062]
+	(No symbol) [0x00F03B98]
+	(No symbol) [0x00F0239B]
+	(No symbol) [0x00F0179E]
+	(No symbol) [0x00EF9F5C]
+	(No symbol) [0x00F1A73C]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,510 - INFO - Crawled through profile of National Institute of Mental Health (NIMH)
+2023-07-25 14:17:02,580 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,644 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,661 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,670 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,681 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,690 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,699 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,708 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,715 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,722 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,731 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,741 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,748 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,754 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,762 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,770 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,790 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,798 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,805 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,813 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:17:02,822 - INFO - Error while crawling a profile: Message: stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00EF9AE1]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00EF9A36]
+	(No symbol) [0x00F1AA94]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:33,421 - INFO - Crawled https://twitter.com/login
+2023-07-25 14:20:39,878 - INFO - Searched for Mental Health
+2023-07-25 14:20:45,575 - INFO - Searched for people related to Mental Health
+2023-07-25 14:20:45,671 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:45,716 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:45,758 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:45,860 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:45,904 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:45,945 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:45,985 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,027 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,071 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,115 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,162 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,204 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,245 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,285 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,329 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,370 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,412 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,451 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,494 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,535 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,575 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,624 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,664 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:20:46,706 - INFO - Error while crawling a profile: Message: invalid selector: Unable to locate an element with the xpath expression /html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div/div/div[{i}]/div/div/div/div/div[2]/div[2]' is not a valid XPath expression.
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0103A813+48355]
+	(No symbol) [0x00FCC4B1]
+	(No symbol) [0x00ED5358]
+	(No symbol) [0x00ED87A1]
+	(No symbol) [0x00ED99E1]
+	(No symbol) [0x00ED9A80]
+	(No symbol) [0x00F0061C]
+	(No symbol) [0x00F00B3B]
+	(No symbol) [0x00F2E232]
+	(No symbol) [0x00F1A784]
+	(No symbol) [0x00F2C922]
+	(No symbol) [0x00F1A536]
+	(No symbol) [0x00EF82DC]
+	(No symbol) [0x00EF93DD]
+	GetHandleVerifier [0x0129AABD+2539405]
+	GetHandleVerifier [0x012DA78F+2800735]
+	GetHandleVerifier [0x012D456C+2775612]
+	GetHandleVerifier [0x010C51E0+616112]
+	(No symbol) [0x00FD5F8C]
+	(No symbol) [0x00FD2328]
+	(No symbol) [0x00FD240B]
+	(No symbol) [0x00FC4FF7]
+	BaseThreadInitThunk [0x77087D59+25]
+	RtlInitializeExceptionChain [0x7735B79B+107]
+	RtlClearBits [0x7735B71F+191]
+
+2023-07-25 14:34:15,962 - INFO - Crawled https://twitter.com/login
+2023-07-25 14:34:22,110 - INFO - Searched for Mental Health
+2023-07-25 14:34:27,869 - INFO - Searched for people related to Mental Health
+2023-07-25 14:34:27,952 - INFO - Crawled through profile of Mental Health Today
+2023-07-25 14:34:28,012 - INFO - Crawled through profile of Mental Health Foundation
+2023-07-25 14:34:28,069 - INFO - Crawled through profile of National Institute of Mental Health (NIMH)
+2023-07-25 14:34:28,185 - INFO - Crawled through profile of SAMHSA
+2023-07-25 14:34:28,236 - INFO - Crawled through profile of Harvard Health
+2023-07-25 14:34:28,294 - INFO - Crawled through profile of Mental Health Australia
+2023-07-25 14:34:28,349 - INFO - Crawled through profile of Mental Health IRL
+2023-07-25 14:34:28,405 - INFO - Crawled through profile of The Royal Mental Health Centre
+2023-07-25 14:34:28,458 - INFO - Crawled through profile of Centre for Mental Health
+2023-07-25 14:34:28,508 - INFO - Crawled through profile of NYS Office of Mental Health
+2023-07-25 14:34:28,559 - INFO - Crawled through profile of Mental Health Chat
+2023-07-25 14:34:28,614 - INFO - Crawled through profile of Mental Health Commission of Canada
+2023-07-25 14:34:28,667 - INFO - Crawled through profile of Mental Health America
+2023-07-25 14:34:28,721 - INFO - Crawled through profile of Greater Manchester Mental Health
+2023-07-25 14:34:28,772 - INFO - Crawled through profile of MentalHealthFirstAid
+2023-07-25 14:34:28,823 - INFO - Crawled through profile of NSFT mental health
+2023-07-25 14:34:28,876 - INFO - Crawled through profile of Australian & New Zealand Mental Health Association
+2023-07-25 14:34:28,929 - INFO - Crawled through profile of Mental Health First Aid | Australia
+2023-07-25 14:34:28,982 - INFO - Crawled through profile of MO DMH
+2023-07-25 14:34:29,035 - INFO - Crawled through profile of MHASF
+2023-07-25 14:34:29,087 - INFO - Crawled through profile of MentalHealthPH
+2023-07-25 14:34:29,142 - INFO - Crawled through profile of TogetherMentalHealth
+2023-07-25 14:34:29,192 - INFO - Crawled through profile of Mental Health Reform
+2023-07-25 14:34:29,244 - INFO - Crawled through profile of Mental Health Collective
+2023-07-25 14:35:38,375 - INFO - Crawled https://twitter.com/login
+2023-07-25 14:35:44,622 - INFO - Searched for Mental Health
+2023-07-25 14:35:50,391 - INFO - Searched for people related to Mental Health
+2023-07-25 14:36:24,496 - INFO - Crawled https://twitter.com/login
+2023-07-25 14:36:30,689 - INFO - Searched for Mental Health
+2023-07-25 14:36:36,339 - INFO - Searched for people related to Mental Health
+2023-07-25 14:36:36,441 - INFO - Crawled through profile of Mental Health Today
+2023-07-25 14:36:36,504 - INFO - Crawled through profile of Mental Health Foundation
+2023-07-25 14:36:36,601 - INFO - Crawled through profile of National Institute of Mental Health (NIMH)
+2023-07-25 14:36:36,669 - INFO - Crawled through profile of SAMHSA
+2023-07-25 14:36:36,724 - INFO - Crawled through profile of Harvard Health
+2023-07-25 14:36:36,778 - INFO - Crawled through profile of Mental Health Australia
+2023-07-25 14:36:36,833 - INFO - Crawled through profile of Mental Health IRL
+2023-07-25 14:36:36,882 - INFO - Crawled through profile of The Royal Mental Health Centre
+2023-07-25 14:36:36,936 - INFO - Crawled through profile of Centre for Mental Health
+2023-07-25 14:36:36,992 - INFO - Crawled through profile of NYS Office of Mental Health
+2023-07-25 14:36:37,046 - INFO - Crawled through profile of Mental Health Chat
+2023-07-25 14:36:37,100 - INFO - Crawled through profile of Mental Health Commission of Canada
+2023-07-25 14:36:37,153 - INFO - Crawled through profile of Mental Health America
+2023-07-25 14:36:37,209 - INFO - Crawled through profile of Greater Manchester Mental Health
+2023-07-25 14:36:37,265 - INFO - Crawled through profile of MentalHealthFirstAid
+2023-07-25 14:36:37,320 - INFO - Crawled through profile of OK Dept. Mental Health & Substance Abuse Services
+2023-07-25 14:36:37,371 - INFO - Crawled through profile of NSFT mental health
+2023-07-25 14:36:37,422 - INFO - Crawled through profile of Australian & New Zealand Mental Health Association
+2023-07-25 14:36:37,474 - INFO - Crawled through profile of Mental Health First Aid | Australia
+2023-07-25 14:36:37,530 - INFO - Crawled through profile of MO DMH
+2023-07-25 14:36:37,585 - INFO - Crawled through profile of MentalHealthPH
+2023-07-25 14:36:37,637 - INFO - Crawled through profile of TogetherMentalHealth
+2023-07-25 14:36:37,691 - INFO - Crawled through profile of Mental Health Reform
+2023-07-25 14:36:37,744 - INFO - Crawled through profile of Mental Health Collective
+2023-07-25 14:38:48,334 - INFO - Crawled https://twitter.com/login
+2023-07-25 14:38:54,723 - INFO - Searched for Mental Health
+2023-07-25 14:39:00,391 - INFO - Searched for people related to Mental Health
+2023-07-25 14:39:00,493 - INFO - Crawled through profile of Mental Health Today
+2023-07-25 14:39:00,580 - INFO - Crawled through profile of Mental Health Foundation
+2023-07-25 14:39:00,719 - INFO - Crawled through profile of National Institute of Mental Health (NIMH)
+2023-07-25 14:39:00,774 - INFO - Crawled through profile of SAMHSA
+2023-07-25 14:39:00,832 - INFO - Crawled through profile of Harvard Health
+2023-07-25 14:39:00,889 - INFO - Crawled through profile of Mental Health Australia
+2023-07-25 14:39:00,949 - INFO - Crawled through profile of Mental Health IRL
+2023-07-25 14:39:00,999 - INFO - Crawled through profile of The Royal Mental Health Centre
+2023-07-25 14:39:01,053 - INFO - Crawled through profile of Centre for Mental Health
+2023-07-25 14:39:01,106 - INFO - Crawled through profile of Mental Health Chat
+2023-07-25 14:39:01,158 - INFO - Crawled through profile of NYS Office of Mental Health
+2023-07-25 14:39:01,214 - INFO - Crawled through profile of Mental Health Commission of Canada
+2023-07-25 14:39:01,268 - INFO - Crawled through profile of Mental Health America
+2023-07-25 14:39:01,322 - INFO - Crawled through profile of Greater Manchester Mental Health
+2023-07-25 14:39:01,372 - INFO - Crawled through profile of NSFT mental health
+2023-07-25 14:39:01,424 - INFO - Crawled through profile of Australian & New Zealand Mental Health Association
+2023-07-25 14:39:01,474 - INFO - Crawled through profile of Mental Health First Aid | Australia
+2023-07-25 14:39:01,527 - INFO - Crawled through profile of MentalHealthFirstAid
+2023-07-25 14:39:01,579 - INFO - Crawled through profile of MO DMH
+2023-07-25 14:39:01,630 - INFO - Crawled through profile of MHASF
+2023-07-25 14:39:01,686 - INFO - Crawled through profile of MentalHealthPH
+2023-07-25 14:39:01,736 - INFO - Crawled through profile of TogetherMentalHealth
+2023-07-25 14:39:01,788 - INFO - Crawled through profile of Mental Health Reform
+2023-07-25 14:39:01,864 - INFO - Crawled through profile of Mental Health Collective
+2023-07-25 14:41:34,058 - INFO - Crawled https://twitter.com/login
+2023-07-25 14:41:40,329 - INFO - Searched for Mental Health
+2023-07-25 14:41:45,980 - INFO - Searched for people related to Mental Health
+2023-07-25 14:41:46,084 - INFO - Crawled through profile of Mental Health Today
+2023-07-25 14:41:46,144 - INFO - Crawled through profile of Mental Health Foundation
+2023-07-25 14:41:46,257 - INFO - Crawled through profile of National Institute of Mental Health (NIMH)
+2023-07-25 14:41:46,317 - INFO - Crawled through profile of SAMHSA
+2023-07-25 14:41:46,376 - INFO - Crawled through profile of Harvard Health
+2023-07-25 14:41:46,431 - INFO - Crawled through profile of Mental Health Australia
+2023-07-25 14:41:46,488 - INFO - Crawled through profile of Mental Health IRL
+2023-07-25 14:41:46,544 - INFO - Crawled through profile of The Royal Mental Health Centre
+2023-07-25 14:41:46,599 - INFO - Crawled through profile of Centre for Mental Health
+2023-07-25 14:41:46,651 - INFO - Crawled through profile of NYS Office of Mental Health
+2023-07-25 14:41:46,711 - INFO - Crawled through profile of Mental Health Chat
+2023-07-25 14:41:46,766 - INFO - Crawled through profile of Mental Health Commission of Canada
+2023-07-25 14:41:46,819 - INFO - Crawled through profile of Mental Health America
+2023-07-25 14:41:46,871 - INFO - Crawled through profile of Greater Manchester Mental Health
+2023-07-25 14:41:46,923 - INFO - Crawled through profile of MentalHealthFirstAid
+2023-07-25 14:41:47,023 - INFO - Crawled through profile of OK Dept. Mental Health & Substance Abuse Services
+2023-07-25 14:41:47,090 - INFO - Crawled through profile of NSFT mental health
+2023-07-25 14:41:47,144 - INFO - Crawled through profile of Australian & New Zealand Mental Health Association
+2023-07-25 14:41:47,201 - INFO - Crawled through profile of Mental Health First Aid | Australia
+2023-07-25 14:41:47,255 - INFO - Crawled through profile of MO DMH
+2023-07-25 14:41:47,311 - INFO - Crawled through profile of MentalHealthPH
+2023-07-25 14:41:47,364 - INFO - Crawled through profile of TogetherMentalHealth
+2023-07-25 14:41:47,417 - INFO - Crawled through profile of Mental Health Reform
+2023-07-25 14:41:47,471 - INFO - Crawled through profile of Mental Health Collective
+2023-07-25 14:41:47,598 - INFO - Updated the data in CSV
+2023-07-25 14:41:47,598 - INFO - Finished scraping. CSV file created at: C:\Users\karan\ODO Email Extraction\Twitter scraping\Mental Health.csv
